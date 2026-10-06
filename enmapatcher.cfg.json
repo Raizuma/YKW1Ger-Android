@@ -3,7 +3,7 @@
   "renameAssets": true,
   "exclude": [
     "*.txt", "*.cfg", "LICENSE", "README.md",
-    "*.png", "*.jpg", "img/", "image/", "images/"
+    "*.png", "*.jpg", "recursos/", "image/", "images/"
   ],
   "exclude_ios": ["assets/android/**"],
   "platforms": { "Android": true, "iOS": true },
